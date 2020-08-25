@@ -1,5 +1,5 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accopamy Intro to R
+# Copy for willkelly 2020
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
